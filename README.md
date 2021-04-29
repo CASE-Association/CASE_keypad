@@ -12,10 +12,12 @@ Recommended soldering order:
   - Crystal 
   - Switches/Encoder (Test and flash before soldering!)
 	
-![diode](https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/diode.png)
+![diode](https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/diode.png | width=100)
+
 Diodes have to be soldered in correct orientation. White line facing downwards.
 
 ![mcu](https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/mcu.png)
+
 Dot on microcontroller should align with white dot on PCB.
 
 Rest of the components can be soldered in arbitrary orientation.
