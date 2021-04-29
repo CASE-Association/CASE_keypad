@@ -21,10 +21,11 @@ Dot on microcontroller should align with white dot on PCB.
 Rest of the components can be soldered in arbitrary orientation.
 
 The keypad can be tested and flashed after soldering the crystal.
-	- Plug in to computer
-	- Check device manager for ATmega32u2
-	- Keypad is working and ready for flashing if ATmega32u2 is detected
-	- Proceed to flashing
+
+ - Plug in to computer
+ - Check device manager for ATmega32u2
+ - Keypad is working and ready for flashing if ATmega32u2 is detected
+ - Proceed to flashing
 
 ## Flashing
   - Download and open QMK Toolbox
