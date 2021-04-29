@@ -12,7 +12,7 @@ Recommended soldering order:
   - Crystal 
   - Switches/Encoder (Test and flash before soldering!)
 	
-![diode](https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/diode.png | width=100)
+<img src="https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/diode.png" width="100" height="100">
 
 Diodes have to be soldered in correct orientation. White line facing downwards.
 
