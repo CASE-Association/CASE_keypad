@@ -14,11 +14,11 @@ Recommended soldering order:
 	
 <img src="https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/diode.png" width="500">
 
-Diodes have to be soldered in correct orientation. White line facing downwards.
+`Diodes have to be soldered in correct orientation. White line facing downwards.`
 
 ![mcu](https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/mcu.png)
 
-Dot on microcontroller should align with white dot on PCB.
+`Dot on microcontroller should align with white dot on PCB.`
 
 Rest of the components can be soldered in arbitrary orientation.
 
