@@ -12,10 +12,10 @@ Recommended soldering order:
   - Crystal 
   - Switches/Encoder (Test and flash before soldering!)
 	
-![diode][]
+![diode][https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/diode.png]
 Diodes have to be soldered in correct orientation. White line facing downwards.
 
-![mcu][]
+![mcu][https://raw.githubusercontent.com/CASE-Association/CASE_keypad/main/img/mcu.png]
 Dot on microcontroller should align with white dot on PCB.
 
 Rest of the components can be soldered in arbitrary orientation.
@@ -37,7 +37,7 @@ Keypad should be flashed and ready to test.
 Use a jumper wire or tweezers to short the switch pins. 
 The keypad should print numbers 1 to 6.
 
-You can now solder the switches/encoder.
+You can now solder the switches/encoder. Encoder is optional and can only be soldered in either top corner (ONLY ONE).
   
 ## Keybinds
   - Download and install VIA Configurator
