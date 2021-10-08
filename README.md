@@ -44,7 +44,7 @@ You can now solder the switches/encoder. Encoder is optional and can only be sol
 ## Keybinds
   - Download and install VIA Configurator
   - Open VIA and go to File->Import Keymap
-  - Select the keymap.json file
+  - Select the via.json file
   - Plug in the keypad
 
 The keybinds can now be configured.
