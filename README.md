@@ -2,7 +2,7 @@
 2x3 Keypad kit
 
 ## Assembly instructions
-This kit requires SMD soldering of 0805 components and a QFP microcontroller.
+This kit requires SMD soldering of 0805 components and a QFP microcontroller. [See this for quick guide in hand-soldering SMD components](https://www.youtube.com/watch?v=EW9Y8rDm4kE)
 Recommended soldering order:
   - Diodes 
   - Resistors/Capacitors
