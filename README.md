@@ -32,12 +32,14 @@ The keypad can be tested and flashed after soldering the crystal.
 ## Flashing
   - Download and open QMK Toolbox
   - Select the provided .HEX file
-  - Choose ATMega32u4 as microcontroller
+  - Choose ATMega32u2 as microcontroller
   - Push reset button on board and then press flash button in toolbox
   
 Keypad should be flashed and ready to test. 
 Use a jumper wire or tweezers to short the switch pins. 
 The keypad should print numbers 1 to 6.
+
+If flashing does not work, try using v0.0.21 of QMK toolbox 
 
 You can now solder the switches/encoder. Encoder is optional and can only be soldered in either top corner (ONLY ONE).
   
