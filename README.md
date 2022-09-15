@@ -31,7 +31,7 @@ The keypad can be tested and flashed after soldering the crystal.
 
 ## Flashing
   - Download and open [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
-  - Select the provided .HEX file from this repo
+  - Select the provided [.HEX file](https://github.com/CASE-Association/CASE_keypad/releases/download/keypad-release/case_keypad_via.hex) 
   - Choose ATMega32u2 as microcontroller
   - Push reset button on board and then press flash button in toolbox
   
@@ -46,16 +46,16 @@ You can now solder the switches/encoder. Encoder is optional and can only be sol
 ## Keybinds
   - Download and install [VIA Configurator](https://github.com/the-via/releases/releases) (select .exe for windows)
   - Open VIA and go to File->Import Keymap
-  - Select the via.json file from this repo
+  - Select the file [via.json](https://github.com/CASE-Association/CASE_keypad/releases/download/keypad-release/via.json)
   - Plug in the keypad
 
 The keybinds can now be configured.
 
-
-	
-	
-	
-
-
-
+## Troubleshooting
+### Unknown USB device
+This is a common problem. Plug in the keyboard and open the device manager. The keyboard should show up as ATmega32U2, if it instead shows up as unknown device, something is wrong. Follow these steps: 
+ - Check that the USB-C connector has no shorts and all pads are connected. It can be good to retouch the connection even if no obvious problem can be found.
+ - Do the same thing for the microcontroller chip. 
+ - Also check that the resistors are soldered properly.
+ - Check the rest of the components.
 
