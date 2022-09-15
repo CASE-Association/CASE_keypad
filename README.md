@@ -30,8 +30,8 @@ The keypad can be tested and flashed after soldering the crystal.
  - Proceed to flashing
 
 ## Flashing
-  - Download and open QMK Toolbox
-  - Select the provided .HEX file
+  - Download and open [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
+  - Select the provided .HEX file from this repo
   - Choose ATMega32u2 as microcontroller
   - Push reset button on board and then press flash button in toolbox
   
@@ -44,9 +44,9 @@ If flashing does not work, try using v0.0.21 of QMK toolbox
 You can now solder the switches/encoder. Encoder is optional and can only be soldered in either top corner (ONLY ONE).
   
 ## Keybinds
-  - Download and install VIA Configurator
+  - Download and install [VIA Configurator](https://github.com/the-via/releases/releases) (select .exe for windows)
   - Open VIA and go to File->Import Keymap
-  - Select the via.json file
+  - Select the via.json file from this repo
   - Plug in the keypad
 
 The keybinds can now be configured.
