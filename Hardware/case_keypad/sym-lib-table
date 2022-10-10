@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Type-C)(type Legacy)(uri "E:/Users/Daniel Quach/Desktop/keyboard/65_proto/65_keyboard_pcb/Type-C.lib")(options "")(descr ""))
+  (lib (name case_keypad-rescue)(type Legacy)(uri ${KIPRJMOD}/case_keypad-rescue.lib)(options "")(descr ""))
+)
